@@ -24,6 +24,11 @@ The application is designed to avoid any page reloads or refreshes during use. T
 Makes only the required API calls to fetch data for the user's search query. This ensures that the application is efficient and performs well, even when dealing with large datasets or slow network connections.
 
 #Screenshots
-Screenshot (546) Screenshot (544) Screenshot (468) Screenshot (469) Screenshot (470) Screenshot (471) Screenshot (472) Screenshot (473) Screenshot (544) Screenshot (545) Screenshot (546)
+
+![Screenshot (546)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/5ef0b0e1-a085-4d24-b7c2-90a9367c6af1)
+![Screenshot (545)](https://github.com/ThotaRitikesh/Mfl![Screenshot (544)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/d61809da![Screenshot (471)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/0c73fc89-4ad4-492b-80e7-518503d18425)
+-aa79-4579-91e4-6e9b696c1665)
+ix./assets/91207994/ede2961a-f04e-4c27-9632-262fc5d99784)![Screenshot (472)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/6816f268-6aa2-4074-a618-e401e1c11a63)
+
 
 Overall, these features add to the usability and functionality of the application, helping to ensure that the user has a positive experience and is able to easily find the movies they are looking for.
