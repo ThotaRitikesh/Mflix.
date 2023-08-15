@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+![Screenshot (546)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/d7abc2ce-d661-4d25-92ec-18b985552a1e)
+![Screenshot (544)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/c1383cd0-7337-491f-adf4-c4fa45c17528)
+#Description
+Live link: https://mflix-2uza.vercel.app/
+Mflix is a movie search application built on React that lets users search for their favorite movies. The user can enter a movie title into a search bar and the application will use Axios to fetch data from the API(www.omdbapi.com) and display the results on the user interface.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Some features include:
 
-## Available Scripts
+The application includes a feature that automatically focuses on the search input field whenever the user opens the application. This saves the user time and effort by eliminating the need to manually click on the search bar before entering their query.
 
-In the project directory, you can run:
+Input validation to ensure that the user enters a movie title before initiating the search. If the user attempts to search without entering any text, the application will display an alert prompting them to enter a movie title.
 
-### `npm start`
+In addition to input validation, the application also includes a feature that returns the user to the default home screen if the search query is empty. This is to ensure that the user is always presented with a clear starting point for their searches, rather than being stuck on a blank screen if they accidentally initiate a search without entering any text.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Automatically adds a default poster image if the movie poster is not available in the API. This ensures that the user is always presented with a clear and consistent visual representation of the movies in their search results, even if the poster is not available in the API.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+If the search query returns no results, the application will display a fallback UI that informs the user that no results were found. The fallback UI may include some helpful tips on how to improve the search criteria.
 
-### `npm test`
+The application is also designed to be responsive, adapting to different screen sizes and devices, so that users can access it on any device, from desktop computers to mobile phones.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The application is designed to avoid any page reloads or refreshes during use. This ensures that the user experience is seamless and uninterrupted, allowing users to easily browse through search results and navigate the application without any interruptions.
 
-### `npm run build`
+Makes only the required API calls to fetch data for the user's search query. This ensures that the application is efficient and performs well, even when dealing with large datasets or slow network connections.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Screenshot (468) Screenshot (469) Screenshot (470) Screenshot (471) Screenshot (472) Screenshot (473)
+![Screenshot (544)]![Screenshot (545)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/3709acc2-0bee-431f-afe4-59a1b4d5a131)
+![Screenshot (546)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/d263bc89-3ceb-484e-993b-eb9c49b0913a)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+(https://github.com/ThotaRitikesh/Mflix./assets/91207994/b7297e41-507a-47c7-b288-da7e6e7c2cca)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Overall, these features add to the usability and functionality of the application, helping to ensure that the user has a positive experience and is able to easily find the movies they are looking for.
