@@ -1,7 +1,8 @@
-![Screenshot (546)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/d7abc2ce-d661-4d25-92ec-18b985552a1e)
-![Screenshot (544)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/c1383cd0-7337-491f-adf4-c4fa45c17528)
-#Description
+
+#Description :
+
 Live link: https://mflix-2uza.vercel.app/
+
 Mflix is a movie search application built on React that lets users search for their favorite movies. The user can enter a movie title into a search bar and the application will use Axios to fetch data from the API(www.omdbapi.com) and display the results on the user interface.
 
 Some features include:
@@ -23,12 +24,6 @@ The application is designed to avoid any page reloads or refreshes during use. T
 Makes only the required API calls to fetch data for the user's search query. This ensures that the application is efficient and performs well, even when dealing with large datasets or slow network connections.
 
 #Screenshots
-
-Screenshot (468) Screenshot (469) Screenshot (470) Screenshot (471) Screenshot (472) Screenshot (473)
-![Screenshot (544)]![Screenshot (545)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/3709acc2-0bee-431f-afe4-59a1b4d5a131)
-![Screenshot (546)](https://github.com/ThotaRitikesh/Mflix./assets/91207994/d263bc89-3ceb-484e-993b-eb9c49b0913a)
-
-(https://github.com/ThotaRitikesh/Mflix./assets/91207994/b7297e41-507a-47c7-b288-da7e6e7c2cca)
-
+Screenshot (546) Screenshot (544) Screenshot (468) Screenshot (469) Screenshot (470) Screenshot (471) Screenshot (472) Screenshot (473) Screenshot (544) Screenshot (545) Screenshot (546)
 
 Overall, these features add to the usability and functionality of the application, helping to ensure that the user has a positive experience and is able to easily find the movies they are looking for.
